@@ -1,5 +1,6 @@
 # Leaf4Game
-First
 
-sstTest
-hjj家里环境测试
+this a game server power by leaf,target to build a Chess card game.
+
+----------
+contributor: [Hjj](https://github.com/CodeInEvening),[SST](https://github.com/MrSong0607)
